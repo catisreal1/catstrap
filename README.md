@@ -18,8 +18,3 @@
 ## Download
 
 You can download the latest version of Catstrap from the [Releases](https://github.com/catisreal1/catstrap/releases) page.
-
-## Special thanks
-
-- [Valra](https://github.com/NotValra) for providing their API
-- Other independent contributors
